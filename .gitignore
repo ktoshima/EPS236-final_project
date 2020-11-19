@@ -1,3 +1,4 @@
+*.hdf5
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,r,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,r,visualstudiocode
